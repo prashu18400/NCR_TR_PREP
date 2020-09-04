@@ -3,6 +3,7 @@ Note: Prior to this round there was an online assessment conducted on HackerEart
 and SQL.Mostly concentrate on OOPs and SQL.Time duration was 1hr 40min
 
 The two coding questions were
+
  1.CamelCase convention to Snakecase convention (20marks) - here we will be given some strings in Camel case convention and convert them to sankecase i.e output string should contain all lowercase letters....
  Ex : HackerEarth --> output : hacker_earth
  macOS       --> output : mac_o_s
